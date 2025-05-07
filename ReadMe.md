@@ -65,7 +65,7 @@
 
 ## 🏆 GITHUB TROPHIES
 
-![](https://github-profile-trophy.vercel.app/?username=nabilulilalbab&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nabilulilalbab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
