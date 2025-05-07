@@ -1,7 +1,7 @@
 <h1 align="center" style="background:black; color:white; padding:20px; font-size:3em;">🚨 NABIL ULIL ALBAB 🚨</h1>
 
 <p align="center" style="font-family:monospace; font-size:1.2em; background:yellow; color:black; padding:10px;">
-  💥 Brutalist Web Dev | 🧠 Still Studying | 🔧 Breaking Things on Purpose
+  💥 Backend Web Dev | 🧠 Still Studying | 🔧 Breaking Things on Purpose
 </p>
 
 ---
