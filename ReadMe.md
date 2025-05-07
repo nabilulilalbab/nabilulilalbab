@@ -64,11 +64,9 @@
 
 ## 📊 GITHUB STATS
 
-![](https://github-readme-stats.vercel.app/api?username=nabilulilalbab&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=nabilulilalbab&theme=highcontrast&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilulilalbab&theme=highcontrast&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nabilulilalbab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nabilulilalbab&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilulilalbab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
