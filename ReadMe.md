@@ -1,12 +1,21 @@
-<h1 align="center" style="background:black; color:white; padding:20px; font-size:3em;">🚨 NABIL ULIL ALBAB 🚨</h1>
+<h1 align="center" style="background:black; color:white; padding:20px; font-size:3em; font-family:monospace;">
+  🚨 NABIL ULIL ALBAB 🚨
+</h1>
 
-<p align="center" style="font-family:monospace; font-size:1.2em; background:yellow; color:black; padding:10px;">
+<p align="center" style="font-family:monospace; font-size:1.2em; background:yellow; color:black; padding:10px; font-weight:bold;">
   💥 Backend Web Dev | 🧠 Still Studying | 🔧 Breaking Things on Purpose
 </p>
 
 ---
 
+## ⚡ WHO AM I?
+
+> A backend explorer navigating the chaos of code. I study, I break, I learn. Repeat.
+
+---
+
 ## 💫 ABOUT ME
+
 > i'm currently studying
 
 ---
@@ -74,6 +83,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
 
 <!-- Brutally powered by GPRM ( https://gprm.itsvg.in ) -->
