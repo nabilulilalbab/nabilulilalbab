@@ -1,6 +1,4 @@
-<h1 align="center" style="background:black; color:white; padding:20px; font-size:3em; font-family:monospace;">
-  🚨 NABIL ULIL ALBAB 🚨
-</h1>
+
 
 <p align="center" style="font-family:monospace; font-size:1.2em; background:yellow; color:black; padding:10px; font-weight:bold;">
   💥 Backend Web Dev | 🧠 Still Studying | 🔧 Breaking Things on Purpose
