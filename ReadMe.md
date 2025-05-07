@@ -75,10 +75,5 @@
 
 ---
 
-## 👀 VISITOR COUNTER
-
-[![](https://visitcount.itsvg.in/api?id=nabilulilalbab&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 <!-- Brutally powered by GPRM ( https://gprm.itsvg.in ) -->
